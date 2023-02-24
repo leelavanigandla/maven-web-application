@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.6.40.98:9980/leelavani/repository/hdfcbank-snapshot//</url>
+	      <url>http://3.6.40.98:9980/leelavani/repository/hdfcbank-snapshot///</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
