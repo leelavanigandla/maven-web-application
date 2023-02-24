@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>leelavani</name>
 	      <url>http://http://3.6.40.98:9980/leelavani/repository/hdfcbank-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>leelavani</name>
 	      <url>http://3.6.40.98:9980/leelavani/repository/hdfcbank-snapshot///</url>
 	    </snapshotRepository>
 	    
